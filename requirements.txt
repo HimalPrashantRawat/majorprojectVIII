@@ -1,0 +1,5 @@
+freeze==1.0.10
+imutils==0.5.2
+numpy==1.16.4
+opencv-python==4.1.0.25
+six==1.12.0
